@@ -1,7 +1,7 @@
 /**
  * MENU DE RESTAURANT
- * Nom de l'étudiant : [Votre nom]
- * Date : [Date]
+ * Nom de l'étudiant : Leurot Théana
+ * Date : 03.02.2026
 
    Instructions complètes ici: https://tim-montmorency.com/compendium/582-211-web2/exercices/cours3-menu-resto/index.html
  */
@@ -17,13 +17,21 @@
 }
 
 body {
-    font-family: 'Arial', sans-serif; /* Changez pour votre choix de police de caractères de Google Fonts*/
+    font-family: "Barlow Condensed"; /* Changez pour votre choix de police de caractères de Google Fonts*/
     font-size: 1rem;
     line-height: 1.6;
     color: #333; /* Ajutez avec votre couleur de texte principale */
-    background-color: #f9f9f9; /* Ajutez avec votre couleur de fond principale */
+    background-image: https://images.pexels.com/photos/7952505/pexels-photo-7952505.jpeg;
 }
 
+section {
+
+
+}
+
+.prix {
+    text-align: right;
+}
 /* ========================================
    VOTRE CODE CSS ICI
    ======================================== */
