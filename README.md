@@ -11,28 +11,26 @@
 
 ## Description
 
-[Décrivez brièvement votre menu et vos choix de design]
+Menu de tavrene style fantasie médiévale.
 
 ## Choix techniques
 
 **Palette de couleurs :**
 
-- Primaire : #2c3e50
-- Secondaire : #e74c3c
-- [Ajoutez vos couleurs]
+- Primaire : #353332
+- Secondaire : rgb(252, 240, 216)
 
 **Police utilisée :**
 
-- [Nom de la police Google Fonts ou autre]
+- Barlow Condensed
 
 **Décisions CSS notables :**
 
-- [Expliquez vos choix techniques intéressants]
+- Choix d'une image de fond plutôt qu'une couleur pour plus de réalisme
 
 ## Difficultés rencontrées
 
-[Optionnel : Quels aspects ont été difficiles?]
+Aligner le prix à droite.
 
 ## Améliorations futures
 
-[Optionnel : Qu'aimeriez-vous ajouter?]
